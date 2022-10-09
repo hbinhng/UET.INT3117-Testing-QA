@@ -1,0 +1,8 @@
+Đặc tả bài toán
+
+Tính trung bình cộng (mean value) của mảng 1 chiều kiểu số
+Tham số đầu vào:
+- Mảng các số
+- Điểm bắt đầu khoảng tính trung bình
+- Độ dài khoảng tính trung bình
+Đầu ra: giá trị trung bình trong khoảng được tính toán
