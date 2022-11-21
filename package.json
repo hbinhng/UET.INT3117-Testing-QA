@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beast462/UET.INT3117-Testing-QA.git"
+    "url": "git+https://github.com/hbinhng/UET.INT3117-Testing-QA.git"
   },
   "author": "Hai Binh Ng. <20020189@vnu.edu.vn>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/beast462/UET.INT3117-Testing-QA/issues"
+    "url": "https://github.com/hbinhng/UET.INT3117-Testing-QA/issues"
   },
-  "homepage": "https://github.com/beast462/UET.INT3117-Testing-QA#readme",
+  "homepage": "https://github.com/hbinhng/UET.INT3117-Testing-QA#readme",
   "devDependencies": {
     "@types/jest": "^29.1.2",
     "@types/node": "^18.8.3",
